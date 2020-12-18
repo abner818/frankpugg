@@ -1,0 +1,28 @@
+body{
+	background-color:#7FB3D5;
+	padding: 150px; 
+	font-family: arial;
+}
+#menu{
+	background-color:#52BE80;
+} 
+#menu ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#menu ul li{
+	display: inline-block;
+}
+#menu ul li a{
+	color: #117864;
+	display: block;
+	padding: 20px 20px;
+	text-decoration: none;
+}
+#menu ul li a:hover {
+background-color: #512E5F
+}
+.item-r{
+	float:right;
+}
